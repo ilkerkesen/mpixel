@@ -1,0 +1,12 @@
+name: mpixel
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - cairo=1.16.0
+  - pango=1.50.14
+  - cmake
+  - glib=2.78.4
+  - libglib=2.78.4
+  - gobject-introspection=1.72.0
